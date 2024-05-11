@@ -3,4 +3,4 @@
  print(a)
  #1
  w=hello
- print(hello)
+ print(w)
